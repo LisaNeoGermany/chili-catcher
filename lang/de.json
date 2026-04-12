@@ -1,0 +1,31 @@
+{
+  "CHILI-CATCHER": {
+    "Title": "Chili Catcher",
+    "StartButton": "Chilis sammeln",
+    "RetryButton": "Erneut versuchen",
+    "ClearLeaderboard": "Bestenliste löschen",
+    "GameOver": "Game Over",
+    "Score": "Punkte",
+    "Leaderboard": "Bestenliste",
+    "NoEntries": "Noch keine Einträge",
+    "DefaultPlayer": "Spieler",
+    "UnknownPlayer": "Unbekannt",
+    "Legend": {
+      "RedChili": "Rote Chili = +1",
+      "BlackChili": "Schwarze Chili = +3 (schneller)",
+      "Bug": "Käfer = -2"
+    },
+    "Notifications": {
+      "NotReady": "ChiliCatcher nicht bereit.",
+      "NoGMResponse": "Keine GM-Antwort. Chat-Fallback wird benutzt.",
+      "LeaderboardCleared": "Bestenliste geleert.",
+      "GMOnly": "Nur GMs können die Bestenliste löschen."
+    },
+    "Dialog": {
+      "ClearTitle": "Bestenliste löschen",
+      "ClearContent": "Soll die Bestenliste wirklich gelöscht werden?",
+      "Delete": "Löschen",
+      "Cancel": "Abbrechen"
+    }
+  }
+}

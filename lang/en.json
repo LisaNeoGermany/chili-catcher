@@ -1,0 +1,31 @@
+{
+  "CHILI-CATCHER": {
+    "Title": "Chili Catcher",
+    "StartButton": "Catch Chilis",
+    "RetryButton": "Try Again",
+    "ClearLeaderboard": "Clear Leaderboard",
+    "GameOver": "Game Over",
+    "Score": "Score",
+    "Leaderboard": "Leaderboard",
+    "NoEntries": "No entries yet",
+    "DefaultPlayer": "Player",
+    "UnknownPlayer": "Unknown",
+    "Legend": {
+      "RedChili": "Red Chili = +1",
+      "BlackChili": "Black Chili = +3 (faster)",
+      "Bug": "Bug = -2"
+    },
+    "Notifications": {
+      "NotReady": "ChiliCatcher not ready.",
+      "NoGMResponse": "No GM response. Using chat fallback.",
+      "LeaderboardCleared": "Leaderboard cleared.",
+      "GMOnly": "Only GMs can clear the leaderboard."
+    },
+    "Dialog": {
+      "ClearTitle": "Clear Leaderboard",
+      "ClearContent": "Are you sure you want to clear the leaderboard?",
+      "Delete": "Delete",
+      "Cancel": "Cancel"
+    }
+  }
+}

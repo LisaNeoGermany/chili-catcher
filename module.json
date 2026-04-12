@@ -1,0 +1,32 @@
+{
+  "id": "chili-catcher",
+  "title": "Chili Catcher",
+  "description": "Minigame for Foundry VTT v13+. Start screen, 60s round, game over with retry, leaderboard.",
+  "version": "2.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "Mini Game Foundry Modul"
+    }
+  ],
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "de",
+      "name": "Deutsch",
+      "path": "lang/de.json"
+    }
+  ],
+  "readme": "README.md",
+  "license": "MIT"
+}
