@@ -28,5 +28,8 @@
     }
   ],
   "readme": "README.md",
-  "license": "MIT"
+  "license": "MIT",
+  "url": "https://github.com/LisaNeoGermany/chili-catcher",
+  "manifest": "https://github.com/LisaNeoGermany/chili-catcher/releases/latest/download/module.json",
+  "download": "https://github.com/LisaNeoGermany/chili-catcher/releases/latest/download/chili-catcher.zip"
 }
